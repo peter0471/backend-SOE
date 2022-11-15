@@ -1,4 +1,5 @@
 uvicorn
+numpy
 fastapi
 gunicorn==19.7.1
 Jinja2==2.8.1
